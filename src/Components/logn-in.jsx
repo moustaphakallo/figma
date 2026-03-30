@@ -6,7 +6,7 @@ export default function Login() {
   return (
    
     <div className="contacte3">
-       <Navbar/>
+    
       <div className="contacte">
         <div className="actions">
           <img src={micro} alt="micro" />
@@ -53,7 +53,7 @@ export default function Login() {
     </div>
 
    
-    <div class="footer-col">
+    <div className="footer-col">
       <h3>Compte</h3>
       <p>Mon Compte</p>
       <p>Connexion / Inscription</p>
@@ -63,7 +63,7 @@ export default function Login() {
     </div>
 
    
-    <div class="footer-col">
+    <div className="footer-col">
       <h3>Liens Rapides</h3>
       <p>Politique de Confidentialité</p>
       <p>Conditions d'Utilisation</p>
@@ -71,16 +71,16 @@ export default function Login() {
       <p>Contact</p>
     </div>
 
-    <div class="footer-col">
+    <div className="footer-col">
       <h3>Télécharger l'Application</h3>
       <p>Économisez 3$ avec l'application — nouveau pour la première fois.</p>
 
-      <div class="app-buttons">
+      <div className="app-buttons">
         <button>🍎 App Store</button>
         <button>▶ Google Play</button>
       </div>
 
-      <div class="socials">
+      <div className="socials">
         <span>f</span>
         <span>𝕏</span>
         <span>in</span>
@@ -90,7 +90,7 @@ export default function Login() {
 
   </div>
 
-  <p class="copyright">
+  <p className="copyright">
     © 2026 Exclusiv
   </p>
 </footer>

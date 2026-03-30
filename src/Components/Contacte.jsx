@@ -6,70 +6,75 @@ export function Contacte(){
         <>
       
 
-     <Navbar/>
+    
 
-      {/* 🔥 Product Section */}
-      <section className="product-section">
-      <div className="product-image">
-  <div className="gamer">
-    <img src="src/assets/malt.png" alt="" />
-    <img src="/src/assets/gamer.png" alt="" />
-    <img src="/src/assets/gamer.png" alt="" />
-    <img src="/src/assets/gamer.png" alt="" />
-  </div>
-
-  <div className="main-image">
-    <img src="/src/assets/gamer.png" alt="" />
-  </div>
-</div>
-
-        <div className="product-details">
-          <h2>Havic HV G-92 Gamepad</h2>
-         <div className="High">
-           <p className="reviews">
-            <Star className="Skin" /><Star className="Skin" /> <Star className="Skin" />
-           (150 Reviews)
-          </p>
-         </div>
-          
-          <h3 className="tr">$192.00</h3>
-
-          <p className="description">
-            PlayStation 5 Controller Skin High quality vinyl with air channel
-            adhesive for easy bubble free install & mess free removal Pressure
-            sensitive.
-          </p>
-              <div class="line"></div>
-                <div className="colour">
-           <p>Colour:</p>
-            <Dot className="dot" />
-            <Dot className="dot1" />
-            </div>
-          <div className="sizes">
-            <button>XS</button>
-            <button>S</button>
-            <button>M</button>
-            <button>L</button>
-            <button>XL</button>
-          </div>
-
-          <div className="buy">
-            <input type="number" defaultValue="2" />
-            <button className="buy-btn">Buy Now</button>
-          </div>
-
-          <div className="delivery">
-            
-            <p className="code "><Van /><span>Free Delivery</span><p>Enter your postal code for Delivery Availability</p></p>
-            
-            <p className="code "> <RotateCcw /><span>Return Delivery</span>  <p>Free 30 Days Delivery Returns. Details</p></p>
-          <div>
-             
-          </div>
-          </div>
-        </div>
-      </section>
      
+     <section className="product-page">
+
+  {/* <!-- LEFT --> */}
+  <div className="product-images">
+    <div className="thumbs">
+     <img src="src/assets/malt.png" alt="" />
+     <img src="src/assets/malt.png" alt="" />
+     <img src="src/assets/malt.png" alt="" />
+     <img src="src/assets/malt.png" alt="" />
+    </div>
+
+    <div className="main-img">
+    <img src="src/assets/malt.png" alt="" />
+    </div>
+  </div>
+
+  {/* <!-- RIGHT --> */}
+  <div class="product-info">
+    <h2>Havic HV G-92 Gamepad</h2>
+
+    <div class="rating">
+      ⭐⭐⭐⭐☆ <span>(150 Reviews)</span>
+    </div>
+
+    <h3 className="price">$192.00</h3>
+
+    <p className="desc">
+      PlayStation 5 Controller Skin High quality vinyl with air channel
+      adhesive for easy bubble free install.
+    </p>
+
+  
+
+    {/* <!-- COLORS --> */}
+    <div className="colors">
+      <span>Colours:</span>
+      <div className="color red"></div>
+      <div className="color blue"></div>
+    </div>
+
+    {/* <!-- SIZES --> */}
+    <div className="sizes">
+      <button>XS</button>
+      <button>S</button>
+      <button class="active">M</button>
+      <button>L</button>
+      <button>XL</button>
+    </div>
+
+    {/* <!-- BUY --> */}
+    <div className="buy">
+      
+      <input type="number" value="2"/>
+      <button className="buy-btn">Buy Now</button>
+    </div>
+
+    {/* <!-- DELIVERY --> */}
+    <div className="delivery-box">
+      <p>🚚 Free Delivery <br />
+      Enter your postal code</p>
+      <p>🔄 Return Delivery <br />Free 30 Days Returns</p>
+    </div>
+
+  </div>
+
+</section>
    
       {/* 🔥 Related Items */}
       <section className="related">

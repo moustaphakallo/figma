@@ -27,7 +27,8 @@ export function Navbar (){
 </div>
         </nav>
         <div className="icons">
-          <Heart /><ShoppingCart /> <User />
+          <Heart /><ShoppingCart /> <User
+           />
 
         </div>
       </header>

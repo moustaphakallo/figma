@@ -5,7 +5,7 @@ import { Navbar } from "./Navbar";
 export function About (){
   return(
     <>
-  <Navbar/>
+
 <section className="elit">
   <div className="Autem ">
     <h1>our stat</h1>
@@ -99,9 +99,9 @@ export function About (){
      </div>
 
      
- <div className="Sale">
+ <div className="Sale1">
        <div className="stat-card small">
-       <Headset/>
+       <Headset/> 
       </div>
       <h3>MONEY BACK GUARANTEE</h3>
         <p>We reurn money within 30 days</p>

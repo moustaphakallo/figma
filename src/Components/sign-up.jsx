@@ -6,7 +6,7 @@ import { Navbar } from "./Navbar";
 export default function SignUp() {
   return (
     <div className="contacte3">
-       <Navbar/>
+       
       <div className="contacte">
         <div className="actions">
           <img src={micro} alt="micro" />
