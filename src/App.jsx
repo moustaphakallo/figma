@@ -11,13 +11,13 @@ import { Navbar } from "./Components/Navbar";
 function App() {
   return (
     <BrowserRouter>
-      <Navbar />        {/* ← sorti des Routes */}
+      <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/signup" element={<SignUp />} />
         <Route path="/login" element={<Login />} />
         <Route path="/about" element={<About />} />
-        <Route path="/contacte" element={<Contacte />} />
+        <Route path="/contact" element={<Contacte />} />
       </Routes>
     </BrowserRouter>
   );
