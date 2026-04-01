@@ -577,4 +577,3 @@ export function Home(){
 </footer>
     </>
   )
-}
