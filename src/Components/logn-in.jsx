@@ -54,7 +54,7 @@ export default function Login() {
 
    
     <div className="footer-col">
-      <h3>Compte</h3>
+      <h3>Compteeeeee</h3>
       <p>Mon Compte</p>
       <p>Connexion / Inscription</p>
       <p>Panier</p>
