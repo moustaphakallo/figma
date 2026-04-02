@@ -38,7 +38,7 @@ export function Home(){
  
       <div className="her">
         {/* <!-- Remplace src par le chemin de ton image --> */}
-        <img className="her-image" src="src/assets/iphon17.png" alt="iPhone 14"/>
+        <img className="her-image" src="images/iphon17.png" alt="iPhone 14"/>
       </div>
     </div>
  
@@ -77,7 +77,7 @@ export function Home(){
                 </div>
               </div>
               
-            <img src="src/assets/malt.png" alt="" />
+            <img src="images/malt.png" alt="" />
             <h4>IPS LCD Gaming Monitor</h4>
             <div className="IPS">
                <p className="Moni">$370 </p>
@@ -99,7 +99,7 @@ export function Home(){
                 </div>
               </div>
             
-            <img src="src/assets/micro.jpg" alt="" />
+            <img src="images/micro.jpg" alt="" />
             <button className="Add ">Add To Cart</button>
             <h4>HAVIT HV-G92 Gamepad</h4>
           <div className="IPS">
@@ -119,7 +119,7 @@ export function Home(){
                 </div>
               </div>
            
-            <img src="src/assets/SA_Black_White_on_AkkoAlice.webp" alt="" />
+            <img src="images/SA_Black_White_on_AkkoAlice.webp" alt="" />
             <h4>AK-900 Wired Keyboard</h4>
             <div className="IPS">
                <p className="Moni">$370 </p>
@@ -137,8 +137,8 @@ export function Home(){
                   <Eye />
                 </div>
               </div>
-           <img src="src/assets/image17.jpg" alt="" />
-           {/* <img src="src/assets/image33.png" alt="" /> */}
+           <img src="images/image17.jpg" alt="" />
+           {/* <img src="images/image33.png" alt="" /> */}
             <h4>RGB Liquid CPU Cooler</h4>
            
          <div className="IPS">
@@ -160,33 +160,33 @@ export function Home(){
 <div className="products-grid">
 
 <div className="product-card">
-<img className="product-image" src="src/assets/camera1.webp" />
+<img className="product-image" src="images/camera1.webp" />
 <h4 className="product-name">Gaming Pad</h4>
 <p className="product-price">$120</p>
 </div>
 
 <div className="product-card">
-<img className="product-image" src="src/assets/ddd.webp" />
+<img className="product-image" src="images/ddd.webp" />
 <h4 className="product-name">Keyboard</h4>
 <p className="product-price">$80</p>
 </div>
 <div className="product-card">
-<img className="product-image" src="src/assets/image30.png" />
+<img className="product-image" src="images/image30.png" />
 <h4 className="product-name">Keyboard</h4>
 <p className="product-price">$80</p>
 </div>
 <div className="product-card">
-<img className="product-image" src="src/assets/image31.png" />
+<img className="product-image" src="images/image31.png" />
 <h4 className="product-name">Keyboard</h4>
 <p className="product-price">$180</p>
 </div>
 <div className="product-card">
-<img className="product-image" src="src/assets/image33.png" />
+<img className="product-image" src="images/image33.png" />
 <h4 className="product-name">Keyboard</h4>
 <p className="product-price">$8000</p>
 </div>
 <div className="product-card">
-<img className="product-image" src="src/assets/Iphone16prodesert.webp" />
+<img className="product-image" src="images/Iphone16prodesert.webp" />
 <h4 className="product-name">Keyboard</h4>
 <p className="product-price">$8070</p>
 </div>
@@ -208,7 +208,7 @@ export function Home(){
                 </div>
               </div>
               
-            <img src="src/assets/gamer-work-space.webp" alt="" />
+            <img src="images/gamer-work-space.webp" alt="" />
             <h4>IPS LCD Gaming Monitor</h4>
             <div className="IPS">
                <p className="Moni">$370 </p>
@@ -230,7 +230,7 @@ export function Home(){
                 </div>
               </div>
             
-          <img src="src/assets/image33.png" alt="" />
+          <img src="images/image33.png" alt="" />
             <button className="Add ">Add To Cart</button>
             <h4>HAVIT HV-G92 Gamepad</h4>
           <div className="IPS">
@@ -250,7 +250,7 @@ export function Home(){
                 </div>
               </div>
            
-            <img src="src/assets/image32.png" alt="" />
+            <img src="images/image32.png" alt="" />
             <h4>AK-900 Wired Keyboard</h4>
             <div className="IPS">
                <p className="Moni">$370 </p>
@@ -268,7 +268,7 @@ export function Home(){
                   <Eye />
                 </div>
               </div>
-              <img src="src/assets/image30.png" alt="" />
+              <img src="images/image30.png" alt="" />
           
             <h4>RGB Liquid CPU Cooler</h4>
            
@@ -303,7 +303,7 @@ export function Home(){
     </div>
 
     <div className="music-image">
-   <img src="src/assets/images15.jpg" alt="" />
+   <img src="images/images15.jpg" alt="" />
     </div>
 
   </div>
@@ -322,7 +322,7 @@ export function Home(){
                 </div>
               </div>
               
-            <img src="src/assets/spiker.avif" alt="" />
+            <img src="images/spiker.avif" alt="" />
             <h4>IPS LCD Gaming Monitor</h4>
             <div className="IPS">
                <p className="Moni">$370 </p>
@@ -344,7 +344,7 @@ export function Home(){
                 </div>
               </div>
             
-            <img src="src/assets/micro.jpg" alt="" />
+            <img src="images/micro.jpg" alt="" />
             <button className="Add ">Add To Cart</button>
             <h4>HAVIT HV-G92 Gamepad</h4>
           <div className="IPS">
@@ -364,7 +364,7 @@ export function Home(){
                 </div>
               </div>
            
-            <img src="src/assets/images15.jpg" alt="" />
+            <img src="images/images15.jpg" alt="" />
             <h4>AK-900 Wired Keyboard</h4>
             <div className="IPS">
                <p className="Moni">$370 </p>
@@ -383,7 +383,7 @@ export function Home(){
                 </div>
               </div>
            
-           <img src="src/assets/Iphone16prodesert.webp" alt="" />
+           <img src="images/Iphone16prodesert.webp" alt="" />
             <h4>RGB Liquid CPU Cooler</h4>
            
          <div className="IPS">
@@ -404,7 +404,7 @@ export function Home(){
                 </div>
               </div>
               
-            <img src="src/assets/images14.jpg" alt="" />
+            <img src="images/images14.jpg" alt="" />
             <h4>IPS LCD Gaming Monitor</h4>
             <div className="IPS">
                <p className="Moni">$370 </p>
@@ -426,7 +426,7 @@ export function Home(){
                 </div>
               </div>
             
-                <img src="src/assets/image33.png" alt="" />
+                <img src="images/image33.png" alt="" />
             <button className="Add ">Add To Cart</button>
             <h4>HAVIT HV-G92 Gamepad</h4>
           <div className="IPS">
@@ -446,7 +446,7 @@ export function Home(){
                 </div>
               </div>
            
-            <img src="src/assets/gamer-work-space.webp" alt="" />
+            <img src="images/gamer-work-space.webp" alt="" />
             <h4>AK-900 Wired Keyboard</h4>
             <div className="IPS">
                <p className="Moni">$370 </p>
@@ -464,7 +464,7 @@ export function Home(){
                   <Eye />
                 </div>
               </div>
-               <img src="src/assets/ddd.webp" alt="" />
+               <img src="images/ddd.webp" alt="" />
        
             <h4>RGB Liquid CPU Cooler</h4>
            
@@ -520,7 +520,7 @@ export function Home(){
     <div className="arrival-right">
 
       <div className="arrival-top">
-         <img src="src/assets/istockphoto.jpg" alt="" />
+         <img src="images/istockphoto.jpg" alt="" />
    
         <div className="overlay">
           <h3>Women’s Collections</h3>
@@ -531,14 +531,14 @@ export function Home(){
       <div className="arrival-bottom">
 
         <div className="card">
-         <img src="src/assets/images18.jpg" alt="" />
+         <img src="images/images18.jpg" alt="" />
           <div className="overlay small">
             <h4>Speakers</h4>
           </div>
         </div>
 
         <div className="card">
-          <img src="src/assets/ddd.webp" alt="" />
+          <img src="images/ddd.webp" alt="" />
           <div className="overlay small">
             <h4>Perfume</h4>
           </div>

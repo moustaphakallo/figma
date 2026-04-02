@@ -13,7 +13,7 @@ export function About (){
     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatum, facilis! Consequuntur accusamus pariatur inventore assumenda vitae qui! Vel architecto suscipit explicabo, repellat, accusantium magnam dolor temporibus ratione ad corrupti est.</p>
   </div>
     <div>
-      <img src="src/assets/image 26.jpg" alt="" />
+      <img src="images/image 26.jpg" alt="" />
     </div>
 </section>
 
@@ -63,21 +63,21 @@ export function About (){
   <div className="sit">
 
     <div className="Lamine">
-<img src="src/assets/image27.png" alt="" />
+<img src="images/image27.png" alt="" />
       <h1>Mohamed</h1>
       <p>Père fondateur école islamique</p>
       <Bird/> <Banknote /><Linkedin />
     </div>
 
     <div className="Lamine">
-     <img src="src/assets/image28.png" alt="" />
+     <img src="images/image28.png" alt="" />
       <h1>Hawa</h1>
       <p>Directrice école islamique</p>
        <Bird/> <Banknote /><Linkedin />
     </div>
 
     <div className="Lamine">
-      <img src="src/assets/image29.png" alt="" />
+      <img src="images/image29.png" alt="" />
       <h1>Lamine</h1>
       <p>Principal école islamique</p>
        <Bird/> <Banknote /><Linkedin />

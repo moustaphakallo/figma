@@ -9,14 +9,14 @@ export function Contacte() {
         {/* LEFT */}
         <div className="product-images">
           <div className="thumbs">
-            <img src="src/assets/malt.png" alt="" />
-            <img src="src/assets/malt.png" alt="" />
-            <img src="src/assets/malt.png" alt="" />
-            <img src="src/assets/malt.png" alt="" />
+            <img src="images/malt.png" alt="" />
+            <img src="images/malt.png" alt="" />
+            <img src="images/malt.png" alt="" />
+            <img src="images/malt.png" alt="" />
           </div>
 
           <div className="main-img">
-            <img src="src/assets/malt.png" alt="" />
+            <img src="images/malt.png" alt="" />
           </div>
         </div>
 
@@ -75,7 +75,7 @@ export function Contacte() {
               <Eye />
             </div>
 
-            <img src="src/assets/image31.png" alt="" />
+            <img src="images/image31.png" alt="" />
             <h4>IPS LCD Gaming Monitor</h4>
 
             <div className="IPS">

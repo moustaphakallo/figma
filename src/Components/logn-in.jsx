@@ -1,5 +1,5 @@
-import micro from "../assets/micro.jpg";
-import gogol from "../assets/gogol.png";
+import micro from "/images/micro.jpg";
+import gogol from "/images/gogol.png";
 import { Navbar } from "./Navbar";
 
 export default function Login() {
