@@ -1242,7 +1242,7 @@ text-align: center;
 /* LEFT BIG */
 .arrival-left {
   position: relative;
-  background-image: url("images/spiker2.png");
+  background-image: url("/images/spiker2.png");
   background-size: cover;        /* L'image remplit bien le bloc */
   background-position: center;   /* Centrer l'image */
   background-repeat: no-repeat;  /* Évite la répétition */
